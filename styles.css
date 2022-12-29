@@ -1,2 +1,10 @@
-
 /* Your CSS Code here. */
+
+*
+{
+    font-size: 20px;
+}
+.favorite-color
+{
+    color: #7C616C;
+}
